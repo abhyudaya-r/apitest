@@ -1,0 +1,164 @@
+{
+  "battles": [
+    {
+      "name": "Siege of Leningrad",
+      "war": "World War II",
+      "year": "1941-1944",
+      "present_location": "Saint Petersburg, Russia",
+      "coordinates": {"latitude": 59.9343, "longitude": 30.3351},
+      "death_count": 1500000
+    },
+    {
+      "name": "Stalingrad",
+      "war": "World War II",
+      "year": "1942-1943",
+      "present_location": "Volgograd, Russia",
+      "coordinates": {"latitude": 48.7080, "longitude": 44.5133},
+      "death_count": 2000000
+    },
+    {
+      "name": "Battle of Moscow",
+      "war": "World War II",
+      "year": "1941-1942",
+      "present_location": "Moscow, Russia",
+      "coordinates": {"latitude": 55.7558, "longitude": 37.6176},
+      "death_count": 1100000
+    },
+    {
+      "name": "Battle of Berlin",
+      "war": "World War II",
+      "year": "1945",
+      "present_location": "Berlin, Germany",
+      "coordinates": {"latitude": 52.5200, "longitude": 13.4050},
+      "death_count": 1500000
+    },
+    {
+      "name": "Battle of Leningrad",
+      "war": "World War I",
+      "year": "1914-1917",
+      "present_location": "Saint Petersburg, Russia",
+      "coordinates": {"latitude": 59.9343, "longitude": 30.3351},
+      "death_count": 1100000
+    },
+    {
+      "name": "Battle of Kursk",
+      "war": "World War II",
+      "year": "1943",
+      "present_location": "Kursk, Russia",
+      "coordinates": {"latitude": 51.7189, "longitude": 36.8190},
+      "death_count": 1200000
+    },
+    {
+      "name": "Battle of the Somme",
+      "war": "World War I",
+      "year": "1916",
+      "present_location": "Somme, France",
+      "coordinates": {"latitude": 49.9667, "longitude": 2.5833},
+      "death_count": 1100000
+    },
+    {
+      "name": "Battle of Verdun",
+      "war": "World War I",
+      "year": "1916",
+      "present_location": "Verdun, France",
+      "coordinates": {"latitude": 49.1667, "longitude": 5.3667},
+      "death_count": 1000000
+    },
+    {
+      "name": "Battle of Wuhan",
+      "war": "Second Sino-Japanese War",
+      "year": "1938-1939",
+      "present_location": "Wuhan, China",
+      "coordinates": {"latitude": 30.5833, "longitude": 114.2667},
+      "death_count": 1000000
+    },
+    {
+      "name": "Battle of Normandy",
+      "war": "World War II",
+      "year": "1944",
+      "present_location": "Normandy, France",
+      "coordinates": {"latitude": 49.4144, "longitude": -0.8322},
+      "death_count": 800000
+    },
+    {
+      "name": "Battle of Gallipoli",
+      "war": "World War I",
+      "year": "1915-1916",
+      "present_location": "Gallipoli Peninsula, Turkey",
+      "coordinates": {"latitude": 40.3917, "longitude": 26.3490},
+      "death_count": 500000
+    },
+    {
+      "name": "Battle of Kalingrad",
+      "war": "World War II",
+      "year": "1945",
+      "present_location": "Kaliningrad, Russia",
+      "coordinates": {"latitude": 54.7167, "longitude": 20.5000},
+      "death_count": 800000
+    },
+    {
+      "name": "Battle of Iwo Jima",
+      "war": "World War II",
+      "year": "1945",
+      "present_location": "Iwo Jima, Japan",
+      "coordinates": {"latitude": 24.7833, "longitude": 141.3167},
+      "death_count": 80000
+    },
+    {
+      "name": "Battle of Okinawa",
+      "war": "World War II",
+      "year": "1945",
+      "present_location": "Okinawa, Japan",
+      "coordinates": {"latitude": 26.5000, "longitude": 128.0000},
+      "death_count": 200000
+    },
+    {
+      "name": "Battle of Khe Sanh",
+      "war": "Vietnam War",
+      "year": "1968",
+      "present_location": "Khe Sanh, Vietnam",
+      "coordinates": {"latitude": 16.6500, "longitude": 106.7500},
+      "death_count": 40000
+    },
+    {
+      "name": "Battle of Dien Bien Phu",
+      "war": "First Indochina War",
+      "year": "1954",
+      "present_location": "Dien Bien Phu, Vietnam",
+      "coordinates": {"latitude": 21.3969, "longitude": 103.0178},
+      "death_count": 25000
+    },
+    {
+      "name": "Battle of Hürtgen Forest",
+      "war": "World War II",
+      "year": "1944",
+      "present_location": "Hürtgen Forest, Germany",
+      "coordinates": {"latitude": 50.6517, "longitude": 6.2850},
+      "death_count": 33000
+    },
+    {
+      "name": "Battle of Saipan",
+      "war": "World War II",
+      "year": "1944",
+      "present_location": "Saipan, Northern Mariana Islands",
+      "coordinates": {"latitude": 15.1833, "longitude": 145.7500},
+      "death_count": 50000
+    },
+    {
+      "name": "Battle of the Bulge",
+      "war": "World War II",
+      "year": "1944-1945",
+      "present_location": "Ardennes, Belgium",
+      "coordinates": {"latitude": 50.0000, "longitude": 5.7500},
+      "death_count": 80000
+    },
+    {
+      "name": "Battle of Caen",
+      "war": "World War II",
+      "year": "1944",
+      "present_location": "Caen, France",
+      "coordinates": {"latitude": 49.1833, "longitude": -0.3500},
+      "death_count": 75000
+    }
+  ]
+}
